@@ -27,3 +27,4 @@ jenkins:
     Global:
       EnvVars:
         TILLER_NAMESPACE: kube-system
+        DOCKER_REGISTRY: footlockerjenkinsx.azurecr.io
